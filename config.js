@@ -73,7 +73,7 @@ module.exports = {
   VERSION : process.env.VERSION || "1.0.1-developement-x",
   caption : global.caption || " `Sahan` *Rio*" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ GlobalTechInfo ® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
  
-  author : process.env.PACK_AUTHER|| "©RIO",
+  author : process.env.PACK_AUTHER|| "©RIO.",
   packname: process.env.PACK_NAME || "°Sahan°",
   botname : process.env.BOT_NAME  || "Sahan-XMD",
   ownername:process.env.OWNER_NAME|| "Sahan-X",
